@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ngungzz
+- 👀 I’m interested in ML and UI/UX Design
+- 🌱 I’m currently learning Machine Learning and Data Analysis
+- 💞️ I’m looking to collaborate on Design Based Project 😋
+- 📫 How to reach me via email, or instagram @ngungzz
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Borderline Radical
