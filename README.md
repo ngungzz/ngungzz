@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @ngungzz</h1>
+<h1 align="center">Hi 👋, I'm ngungzz</h1>
 <h3 align="center">Indonesia based university student, studying Information Technology in Udayana University. Have interests in fields of Machine Learning and Data Analytics. Like to keep up with the news and follow geopolitical issues 😋</h3>
 
 - 🌱 I’m currently learning **Image Processing Fundamentals**
