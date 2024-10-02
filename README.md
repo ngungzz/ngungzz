@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm ngungzz</h1>
-<h3 align="center">Indo-based university student, Information Technology Udayana University. Have interests in fields of Machine Learning and Data Analytics. Like to keep up with the news and follow geopolitical issues 😋</h3>
+<h1 align="left">Hi 👋, I'm ngungzz</h1>
+<h3 align="left">Indo-based university student, Information Technology Udayana University. Have interests in fields of Machine Learning and Data Analytics. Like to keep up with the news and follow geopolitical issues 😋</h3>
 
 - 🌱 I’m currently learning **Image Processing Fundamentals**
 
